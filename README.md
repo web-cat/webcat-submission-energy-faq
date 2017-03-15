@@ -68,7 +68,7 @@ There are several reasons the energy bar helps students...
     feedback gives you more time to ask questions in class, visit office hours,
     or participate in discussions in class forums.  If you get stuck, you have
     more time to get help becoming unstuck. And finally, it allows you
-    recognize opportunities to apply what you hear in class to your
+    to recognize opportunities to apply what you hear in class to your
     assignments.  If, on the other hand, you wait until the last minute to
     get started, often there isn't time to seek help.
 
