@@ -18,17 +18,17 @@ again until another unit of energy is regenerated.
 ### Help! The deadline is approaching and I'm out of energy!
 
 Lack of energy won't prevent you from submitting your final work
-just before the deadline.  If you run out of energy and your next unit won't
-regenerate until after the deadline, don't worry--Web-CAT will still let you
-submit your work without energy in that situation, until the deadline is
-reached.  Web-CAT won't "lock you out" of submitting at the last minute even
-if you have no energy left.
+before the deadline.  If you run out of energy and your next unit won't
+regenerate until after the deadline, don't worry--Web-CAT will allow you
+to submit your work without energy and process it immediately, until the 
+deadline is reached.  Web-CAT won't "lock you out" of submitting at the 
+last minute, even if you have no energy left.
 
 
 ### What happens if I submit, but have no energy?
 
 If your next unit of energy won't regenerate until after the due deadline,
-your submission will be processed normally (see above).
+your submission will be processed immediately (see above).
 
 Otherwise, if you are submitting through the web interface, you cannot submit
 if you have no energy.
