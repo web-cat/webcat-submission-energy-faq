@@ -14,6 +14,20 @@ used.  Your bar will then regenerate energy at a rate of 1 unit per hour until
 it is full again.  If your energy runs out, you cannot submit to Web-CAT
 again until another unit of energy is regenerated.
 
+Because of the energy regeneration limit, you should not plan to have an unlimited
+number of Web-CAT submissions in one sitting. If you're working on the assignment
+for one evening, in 3 hours you'll be able to have around 6 submissions, so don't
+spend a submission trying to fix one formatting error or changing one line of
+code--work smarter, and fix all the formatting errors you can see in your previous
+Web-CAT submission before submitting again, or try to reproduce problems using your
+own software tests so you'll be able to figure out whether your code is fixed on
+your own, without submitting to Web-CAT every time.
+
+On introductory programs, most students use only 8-10 Web-CAT submissions (or maybe
+up to twice that for more advanced programs). You can easily get 8-10 submissions in
+two short work sessions of 3 hours each, so plan out your time so you will be able
+to work without pressure, instead of saving all your Web-CAT work until the last night.
+
 
 ### Help! The deadline is approaching and I'm out of energy!
 
